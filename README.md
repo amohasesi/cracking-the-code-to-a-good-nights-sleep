@@ -11,8 +11,8 @@ This project uses multiple linear regression to model the relationship between s
  
 ## Contents
 
-- data/: Folder containing the World Bank datasets
-- carbon_dioxide_emissions_forecasting.ipynb: Jupyter notebook containing all code for analysis, model building, and visualization
+- data/: Folder containing the Kaggle dataset
+- cracking_the_code_to_a_good_nights_sleep.R: R script containing all code for analysis
 
 
 
